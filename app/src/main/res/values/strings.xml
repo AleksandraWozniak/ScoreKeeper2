@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Score Keeper2</string>
+    <string name="real_madrid">Real Madrid</string>
+    <string name="fcb">FC Barcelona</string>
+    <string name="goal">Goal</string>
+    <string name="foul">Foul</string>
+    <string name="yellow">Yellow</string>
+    <string name="red">Red</string>
+    <string name="reset">Reset</string>
+</resources>
